@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to <strong>NIO</strong> 👋</h1>
+<h1 align="center">Welcome to NIO 👋</h1>
 <p>
   <a href="https://www.npmjs.com/package/nio" target="_blank">
     <img alt="Version" src="https://img.shields.io/npm/v/nio.svg">
