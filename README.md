@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to NIO 🚀</h1>
 <p>
-  <a href="https://www.npmjs.com/package/nio" target="_blank">
+  <a href="https://www.npmjs.com/package/nio-css" target="_blank">
     <img alt="Version" src="https://img.shields.io/npm/v/nio.svg">
   </a>
   <a href="https://github.com/germanolira/nio/blob/master/LICENSE" target="_blank">
