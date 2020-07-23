@@ -7,7 +7,7 @@
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
   <a href="https://github.com/germanolira/nio/blob/master/LICENSE" target="_blank">
-    <img alt="License: MIT License" src="https://img.shields.io/badge/License-MIT License-green.svg" />
+    <img alt="License: MIT License" src="https://img.shields.io/badge/License-MIT License-brightgreen.svg" />
   </a>
   <a href="https://twitter.com/nioframework" target="_blank">
     <img alt="Twitter: nioframework" src="https://img.shields.io/twitter/follow/nioframework.svg?style=social" />
