@@ -1,0 +1,189 @@
+body {
+    font-family: Helvetica, sans-serif, Arial;
+}
+
+.btn-primary {
+    background: #000000;
+    height: 35px;
+    width: 100px;
+    border-radius: 5px;
+    border: 1px solid transparent;
+    color: white;
+    font-size: Helvetica, sans-serif, Arial;
+    font-weight: bold;
+}
+
+.btn-secondary {
+    background: #FFFFFF;
+    height: 35px;
+    width: 100px;
+    border: 1px solid #707070;
+    border-radius: 5px;
+}
+
+.btn-light {
+    background: #EBE9E9;
+    height: 35px;
+    width: 100px;
+    border: 1px solid transparent;
+    border-radius: 5px;
+} 
+
+.btn-warning {
+    background: #FFE900;
+    height: 35px;
+    width: 100px;
+    border: 1px solid transparent;
+    border-radius: 5px;
+}
+
+.btn-green {
+    background: #0CF574;
+    height: 35px;
+    width: 100px;
+    border: 1px solid transparent;
+    border-radius: 5px;
+}
+
+.btn-blue {
+    background: #1AC8ED;
+    height: 35px;
+    width: 100px;
+    border: 1px solid transparent;
+    border-radius: 5px;
+}
+
+.btn-red {
+    background: #F8333C;
+    height: 35px;
+    width: 100px;
+    border: 1px solid transparent;
+    border-radius: 5px;
+}
+
+/*FIM DOS BOTOES - COMEÇO BOTOES REDONDOS*/
+
+.btn-primary-rounded {
+    background: #000000;
+    height: 35px;
+    width: 100px;
+    border-radius: 20px;
+    border: 1px solid transparent;
+    color: white;
+    font-size: Helvetica, sans-serif, Arial;
+    font-weight: bold;
+}
+
+.btn-secondary-rounded {
+    background: #FFFFFF;
+    height: 35px;
+    width: 100px;
+    border: 1px solid #707070;
+    border-radius: 20px;
+}
+
+.btn-light-rounded {
+    background: #EBE9E9;
+    height: 35px;
+    width: 100px;
+    border: 1px solid transparent;
+    border-radius: 20px;
+} 
+
+.btn-warning-rounded {
+    background: #FFE900;
+    height: 35px;
+    width: 100px;
+    border: 1px solid transparent;
+    border-radius: 20px;
+}
+
+.btn-green-rounded {
+    background: #0CF574;
+    height: 35px;
+    width: 100px;
+    border: 1px solid transparent;
+    border-radius: 20px;
+}
+
+.btn-blue-rounded {
+    background: #1AC8ED;
+    height: 35px;
+    width: 100px;
+    border: 1px solid transparent;
+    border-radius: 20px;
+}
+
+.btn-blue-rounded {
+    background: #1AC8ED;
+    height: 35px;
+    width: 100px;
+    border: 1px solid transparent;
+    border-radius: 20px;
+} 
+
+.btn-red-rounded {
+    background: #F8333C;
+    height: 35px;
+    width: 100px;
+    border: 1px solid transparent;
+    border-radius: 20px;
+}
+
+/* FIM BOTOES REDONDOS */
+
+.btn-mars-gradient {
+    background-image: linear-gradient(to bottom right, #FBD72B, #F9484A);
+    height: 35px;
+    width: 100px;
+    border: 0px solid transparent;
+    border-radius: 5px;
+}
+
+.btn-spotify-gradient {
+    background-image: linear-gradient(to bottom right, #0CF574, #98DE5B);
+    height: 35px;
+    width: 100px;
+    border: 0px solid transparent;
+    border-radius: 5px;
+}
+
+.btn-vegan-gradient {
+    background-image: linear-gradient(to bottom right, #80FF72, #7EE8FA);
+    height: 35px;
+    width: 100px;
+    border: 0px solid transparent;
+    border-radius: 5px;
+}
+
+.btn-renewable-gradient {
+    background-image: linear-gradient(to bottom right, #009FFD, #2A2A72);
+    height: 35px;
+    width: 100px;
+    border: 0px solid transparent;
+    border-radius: 5px;
+}
+
+.btn-sky-gradient {
+    background-image: linear-gradient(to bottom right, #009FFD, #2A2A72);
+    height: 35px;
+    width: 100px;
+    border: 0px solid transparent;
+    border-radius: 5px;
+}
+
+.btn-instagram-gradient {
+    background-image: linear-gradient(to bottom right, #B621FE, #1FD1F9);
+    height: 35px;
+    width: 100px;
+    border: 0px solid transparent;
+    border-radius: 5px;
+}
+
+.btn-light-gradient {
+    background-image: linear-gradient(to bottom right, #F5F7FA, #B8C6DB);
+    height: 35px;
+    width: 100px;
+    border: 0px solid transparent;
+    border-radius: 5px;
+}
