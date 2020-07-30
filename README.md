@@ -32,5 +32,20 @@ Give a ⭐️ if this project helped you!
 Copyright © 2020 [Germano Lira](https://github.com/germanolira).<br />
 This project is [MIT License](https://github.com/germanolira/nio/blob/master/LICENSE) licensed.
 
+
+## Alpha 0.0.1
+
+* Buttons
+* Buttons Rounded
+* Gradients
+
+## Alpha 0.0.2
+
+* Alerts
+
+## Alpha 0.0.3
+
+* Text color
+
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
